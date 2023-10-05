@@ -1,4 +1,5 @@
-# This will run in a terminal or VS etc. No extra pages needed :
+# This will run in a terminal or VS etc. No extra pages needed 
+# I made it in Python 3.11.5
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
