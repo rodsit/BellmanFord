@@ -1,5 +1,6 @@
 # This will run in a terminal or VS etc. No extra pages needed 
 # I made it in Python 3.11.5
+# The matlab graphic is 3D so rotate it with mouse
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
